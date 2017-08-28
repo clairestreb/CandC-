@@ -1,2 +1,2 @@
-# CandC-
+# CandC++
 C and C++
